@@ -17,3 +17,5 @@ height="height-value"
 allowfullscreen
 ></iframe>
 ```
+## *Education*
+2008-2014 Kharkiv National University of Radio Electronics *Engineer of Telecommunication*
