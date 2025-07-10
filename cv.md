@@ -19,3 +19,9 @@ allowfullscreen
 ```
 ## *Education*
 2008-2014 Kharkiv National University of Radio Electronics *Engineer of Telecommunication*
+## *Languages*
+- Ukrainian *Native*
+- Russian *C2*
+- Polish *C1*
+- Deutch *A2*
+- English *B1*
