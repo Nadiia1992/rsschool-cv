@@ -1,6 +1,18 @@
 .resume {
     font-family: Arial, sans-serif;
-    margin:20 px;
-    padding: 15 px;
+    margin:0 px;
+    padding: 0 px;
     border: 1px solid #ccc;
     }
+
+    html {
+        scroll-behavior: smooth;
+        }
+
+    .nav-list {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        }
+
+        
