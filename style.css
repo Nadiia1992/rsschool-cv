@@ -1,18 +1,43 @@
-.resume {
-    font-family: Arial, sans-serif;
-    margin:0 px;
-    padding: 0 px;
-    border: 1px solid #ccc;
-    }
-
     html {
         scroll-behavior: smooth;
         }
 
     .nav-list {
-        display: flex;
-        justify-content: flex-end;
+        display: inline-block;
         align-items: center;
         }
 
+        body {
+            background-color: rgb(232, 221, 221);
         
+            }
+
+            h1 {
+                color:rgb(107, 20, 20);
+                text-align: center;
+                }
+                footer {
+                    background-color: white;
+                    }
+        
+                    .container {
+                        display: flex;
+                        gap:30px;
+                        align-items: flex-start;
+                        max-width: 1000px;
+                        margin: 0 auto;
+                        }
+
+                        .left-column {
+                            widht: 30%;
+                            background-color: indianred;
+                            }
+
+                            .right-column {
+                                width: 70%;
+                                background-color: cadetblue;
+                                }
+
+                                p {
+                                    color:blue;
+                                    }
