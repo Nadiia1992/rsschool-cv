@@ -1,6 +1,45 @@
-.resume {
-    font-family: Arial, sans-serif;
-    margin:20 px;
-    padding: 15 px;
-    border: 1px solid #ccc;
-    }
+    html {
+        scroll-behavior: smooth;
+        }
+
+    .nav {
+        align-items: right;
+        list-style:inside;
+        padding right: 10px;
+        line-height: 20px;
+
+        }
+
+        body {
+            background-color: #f2ece4;
+            color: black;
+            font-size: 14px;
+            font-weight: normal;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            }
+    
+
+            h1 {
+                color:rgb(107, 20, 20);
+                text-align: center;
+                }
+                footer {
+                    background-color: white;
+                    }
+       h2 {
+        color:crimson;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: left;
+        }
+        .right-column {
+            background-color: rgb(207, 187, 209);
+            max-width: 850px;
+            padding: 20px; 
+            margin-left: 500px;
+            margin-top: 10px;
+            }
+
+        .image {
+        text-align: right;
+        margin right: 10px;
+        }
